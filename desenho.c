@@ -6,14 +6,6 @@
 
 int main(void) {
     
-    /*
-    Site: http://programjm.blogspot.com.br/
-    Author: João Matheus Santos Assis.
-    Creation date: 30/05/2012.
-    Last updated: 30/06/2016.
-    Description: Este programa exibe uma palavra digitada pelo usuário 
-    em forma de X.
-    */
     
     
     char elemento[10];
